@@ -33,6 +33,7 @@ Open up a terminal window. Then, in that terminal:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 brew install git
 brew install hugo
+brew install golang
 brew install --cask visual-studio-code
 ```
 
@@ -43,7 +44,9 @@ Open up a PowerShell terminal window with admin privileges (shift+right click to
 ```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 
-choco install git hugo-extended vscode -y
+choco install git hugo-extended vscode golang -y
+# Strongly recommend closing your terminal at this point
+# that way you're not running everything as admin, which can be dangerous!
 ```
 
 ### Getting a Preview Site Up
@@ -63,10 +66,8 @@ git clone https://github.com/username/repo-name.git
 code ./repo-name
 # Step into your project
 cd ./repo-name
-# do a one time setup thing that you don't care about
-git submodule update --init
 # start the live server
-hugo server --minify --theme book
+hugo server --minify
 ```
 
 Now that you have the repository open, you can spin up a local copy of your site and see your changes as you make them!
