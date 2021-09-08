@@ -2,7 +2,16 @@
 # Update to your own settings for URL/title
 baseURL: https://platen-template.netlify.app/
 title: Platen Example
-theme: book
+# Google Analytics: uncomment and replace with your own code if you want to use this
+# googleAnalytics: G-123ABC456D
+
+module:
+  # Dev use only! Do not uncomment unless you're modifying a theme module!
+  # Only used in local testing; make sure to override the path to your own local copy
+  # replacements: 'github.com/platenio/hugo-platen -> C:\code\platen\themes\platen'
+  imports:
+    - path: github.com/platenio/hugo-platen
+    - path: github.com/alex-shpak/hugo-book
 
 # Book configuration
 disablePathToLower: true
@@ -64,7 +73,7 @@ params:
   # For backward compatibility you can set '*' to render all sections to menu. Acts same as '/'
   BookSection: docs
 
-  # Set source repository location.
+  # Set source repository location. Set this to YOUR repository!
   # Used for 'Last Modified' and 'Edit this page' links.
   BookRepo: https://github.com/platenio/book-template
 
@@ -78,7 +87,7 @@ params:
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
-  BookEditPath: edit/main/exampleSite
+  # BookEditPath: edit/main/exampleSite
 
   # Configure the date format used on the pages
   # - In git information

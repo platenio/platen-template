@@ -1,6 +1,5 @@
 ---
 weight: 1
-bookFlatSection: true
 title: "Picaroons"
 ---
 
@@ -16,4 +15,4 @@ It currently includes lightweight rules for adjudication, character creation/adv
 
 You can also buy _Picaroons_ on itch, where it is itchfunding!
 
-<iframe frameborder="0" src="https://itch.io/embed/1167997?linkback=true" width="552" height="167"><a href="https://michaeltlombardi.itch.io/picaroons">Picaroons by Michael T Lombardi</a></iframe>
+<iframe title="Purchase Picaroons on Itch"frameborder="0" src="https://itch.io/embed/1167997?linkback=true" width="552" height="167"><a href="https://michaeltlombardi.itch.io/picaroons">Picaroons by Michael T Lombardi</a></iframe>
