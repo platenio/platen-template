@@ -19,7 +19,7 @@ In the message box, type "Set site name" and hit enter.
 
 Congrats! You've just edited your site for the first time!
 
-You can write [markdown]() for blog posts or site pages - everything in the `content` folder is being rendered on your site. Look through that folder to see how things are used and structured (more in depth guides on this later, ofc). You can edit any files you please and see the effect.
+You can write [markdown](https://www.markdownguide.org/getting-started/) for blog posts or site pages - everything in the `content` folder is being rendered on your site. Look through that folder to see how things are used and structured (more in depth guides on this later, ofc). You can edit any files you please and see the effect.
 
 ## Local Workflow
 
