@@ -9,9 +9,9 @@ You can install this website as an app, it's a fully functional PWA!
 
 You can checkout two different versions of Picaroons, either via the menu or these links:
 
-1. [Picaroons as a multi-page project]({{< relref "/docs/picaroons" >}})
-2. [Picaroons as a single-page project]({{< relref "/docs/picaroons-sp" >}})
+1. [Picaroons as a multi-page project](/games/picaroons)
+2. [Picaroons as a single-page project](/games/picaroons-sp)
 
-You can also checkout the blog via the menu or [this link]({{< relref "/posts" >}}).
+You can also checkout the blog via the menu or [this link](/posts).
 
 While not currently implemented, you can include multiple language versions of your site and switch between them via the menu.
