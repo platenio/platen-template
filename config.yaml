@@ -56,6 +56,12 @@ menu:
       weight: 10
 
 params:
+  description: My site description.
+
+  # Use this for the social media preview functionality
+  # images:
+  #   - /images/site-feature-image.png
+
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
   BookTheme: "auto"
