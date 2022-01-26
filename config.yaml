@@ -10,6 +10,7 @@ module:
   # Only used in local testing; make sure to override the path to your own local copy
   # replacements: 'github.com/platenio/hugo-platen -> C:\code\platen\themes\platen'
   imports:
+    - path: github.com/platenio/hugo-platen-netlify
     - path: github.com/platenio/hugo-platen
     - path: github.com/alex-shpak/hugo-book
 
@@ -22,8 +23,12 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    parser:
+      attribute:
+        block: true
   tableOfContents:
     startLevel: 1
+    endLevel: 4
 
 # Multi-lingual mode config
 # There are different options to translate files
@@ -51,6 +56,12 @@ menu:
       weight: 10
 
 params:
+  description: My site description.
+
+  # Use this for the social media preview functionality
+  # images:
+  #   - /images/site-feature-image.png
+
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
   BookTheme: "auto"
@@ -71,7 +82,7 @@ params:
   # (Optional, default docs) Specify root page to render child pages as menu.
   # Page is resoled by .GetPage function: https://gohugo.io/functions/getpage/
   # For backward compatibility you can set '*' to render all sections to menu. Acts same as '/'
-  BookSection: docs
+  BookSection: games
 
   # Set source repository location. Set this to YOUR repository!
   # Used for 'Last Modified' and 'Edit this page' links.
