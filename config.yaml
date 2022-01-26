@@ -23,8 +23,12 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    parser:
+      attribute:
+        block: true
   tableOfContents:
     startLevel: 1
+    endLevel: 4
 
 # Multi-lingual mode config
 # There are different options to translate files
