@@ -10,6 +10,7 @@ module:
   # Only used in local testing; make sure to override the path to your own local copy
   # replacements: 'github.com/platenio/hugo-platen -> C:\code\platen\themes\platen'
   imports:
+    - path: github.com/platenio/hugo-platen-netlify
     - path: github.com/platenio/hugo-platen
     - path: github.com/alex-shpak/hugo-book
 

@@ -1,4 +1,12 @@
 github.com/alex-shpak/hugo-book v0.0.0-20210907200533-6aef8ef1c776 h1:wRep+NGTXIK1oNLj0gHKEAcYrdFD8+Qh+OfGx3Mzbrw=
 github.com/alex-shpak/hugo-book v0.0.0-20210907200533-6aef8ef1c776/go.mod h1:L4NMyzbn15fpLIpmmtDg9ZFFyTZzw87/lk7M2bMQ7ds=
+github.com/alex-shpak/hugo-book v0.0.0-20220113182002-3a65df3a76e2 h1:Z9qihHQUaoDO6AT3+NiNgEA2J7q+QdglapqabPu8eaE=
+github.com/alex-shpak/hugo-book v0.0.0-20220113182002-3a65df3a76e2/go.mod h1:L4NMyzbn15fpLIpmmtDg9ZFFyTZzw87/lk7M2bMQ7ds=
 github.com/platenio/hugo-platen v0.0.0-20210908032145-33863a0ed75f h1:yfy8aysH2gu8AYOwV133aimIGxosqqjwDa8g3h4Eqlw=
 github.com/platenio/hugo-platen v0.0.0-20210908032145-33863a0ed75f/go.mod h1:oKKoHERB/TNznzstUQiRFuVaqMyk/l8jtUTXR1M+6bk=
+github.com/platenio/hugo-platen v0.0.0-20220106154008-51703b8f9005 h1:KOoh+qVcLXwvak11eNrmb8iTayZ0NSji5Wq3yOCiXbU=
+github.com/platenio/hugo-platen v0.0.0-20220106154008-51703b8f9005/go.mod h1:oKKoHERB/TNznzstUQiRFuVaqMyk/l8jtUTXR1M+6bk=
+github.com/platenio/hugo-platen-netlify v0.0.0-20220107210208-269faeb6f675 h1:yCTAYc6fVwFyAERNrFYmtVcm2Fb+XF2/IsOwz8bMczU=
+github.com/platenio/hugo-platen-netlify v0.0.0-20220107210208-269faeb6f675/go.mod h1:bWR1Oati9tMCAgtP1JpSzUCXPSFuVA9LA52tDlTC43Q=
+github.com/theNewDynamic/hugo-module-tnd-netlifycms v0.1.80 h1:1msyp/pvZCNWmd9AI0/CHULHQAf+yKgd2LfedA5i1lQ=
+github.com/theNewDynamic/hugo-module-tnd-netlifycms v0.1.80/go.mod h1:nq9tIR0Xpx2W2mSQHfJya2OvAfgYOMveqrllijA27vo=
