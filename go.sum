@@ -6,7 +6,11 @@ github.com/platenio/hugo-platen v0.0.0-20210908032145-33863a0ed75f h1:yfy8aysH2g
 github.com/platenio/hugo-platen v0.0.0-20210908032145-33863a0ed75f/go.mod h1:oKKoHERB/TNznzstUQiRFuVaqMyk/l8jtUTXR1M+6bk=
 github.com/platenio/hugo-platen v0.0.0-20220106154008-51703b8f9005 h1:KOoh+qVcLXwvak11eNrmb8iTayZ0NSji5Wq3yOCiXbU=
 github.com/platenio/hugo-platen v0.0.0-20220106154008-51703b8f9005/go.mod h1:oKKoHERB/TNznzstUQiRFuVaqMyk/l8jtUTXR1M+6bk=
+github.com/platenio/hugo-platen v0.1.0 h1:e2o+ehuwm7QkDkvtI+Pg0GdmWPkSO8YHsCg/fZHSEe4=
+github.com/platenio/hugo-platen v0.1.0/go.mod h1:oKKoHERB/TNznzstUQiRFuVaqMyk/l8jtUTXR1M+6bk=
 github.com/platenio/hugo-platen-netlify v0.0.0-20220107210208-269faeb6f675 h1:yCTAYc6fVwFyAERNrFYmtVcm2Fb+XF2/IsOwz8bMczU=
 github.com/platenio/hugo-platen-netlify v0.0.0-20220107210208-269faeb6f675/go.mod h1:bWR1Oati9tMCAgtP1JpSzUCXPSFuVA9LA52tDlTC43Q=
+github.com/platenio/hugo-platen-netlify v0.1.0 h1:PKiKv9oPrVhigLWqMSsw/TSGz6r1qkYftxH3t2wwHUQ=
+github.com/platenio/hugo-platen-netlify v0.1.0/go.mod h1:bWR1Oati9tMCAgtP1JpSzUCXPSFuVA9LA52tDlTC43Q=
 github.com/theNewDynamic/hugo-module-tnd-netlifycms v0.1.80 h1:1msyp/pvZCNWmd9AI0/CHULHQAf+yKgd2LfedA5i1lQ=
 github.com/theNewDynamic/hugo-module-tnd-netlifycms v0.1.80/go.mod h1:nq9tIR0Xpx2W2mSQHfJya2OvAfgYOMveqrllijA27vo=
