@@ -4,6 +4,8 @@ github.com/alex-shpak/hugo-book v0.0.0-20220113182002-3a65df3a76e2 h1:Z9qihHQUao
 github.com/alex-shpak/hugo-book v0.0.0-20220113182002-3a65df3a76e2/go.mod h1:L4NMyzbn15fpLIpmmtDg9ZFFyTZzw87/lk7M2bMQ7ds=
 github.com/alex-shpak/hugo-book v0.0.0-20220218163502-98d19b8e9501 h1:zfXEBehobKJTuoaLkrqcR7vG+ufJBKZMyIfYSgJOzZU=
 github.com/alex-shpak/hugo-book v0.0.0-20220218163502-98d19b8e9501/go.mod h1:L4NMyzbn15fpLIpmmtDg9ZFFyTZzw87/lk7M2bMQ7ds=
+github.com/alex-shpak/hugo-book v0.0.0-20220426114310-4ef38f3bbf5d h1:6MRB+1yQvA0sUL+zOn+vEUMpexRzVfZIFEIlMYr2Hhk=
+github.com/alex-shpak/hugo-book v0.0.0-20220426114310-4ef38f3bbf5d/go.mod h1:L4NMyzbn15fpLIpmmtDg9ZFFyTZzw87/lk7M2bMQ7ds=
 github.com/platenio/hugo-platen v0.0.0-20210908032145-33863a0ed75f h1:yfy8aysH2gu8AYOwV133aimIGxosqqjwDa8g3h4Eqlw=
 github.com/platenio/hugo-platen v0.0.0-20210908032145-33863a0ed75f/go.mod h1:oKKoHERB/TNznzstUQiRFuVaqMyk/l8jtUTXR1M+6bk=
 github.com/platenio/hugo-platen v0.0.0-20220106154008-51703b8f9005 h1:KOoh+qVcLXwvak11eNrmb8iTayZ0NSji5Wq3yOCiXbU=
