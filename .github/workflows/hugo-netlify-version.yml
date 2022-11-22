@@ -11,7 +11,7 @@ defaults:
 
 jobs:
   update_hugo_modules:
-    runs-on: windows-2019
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - name: Update Hugo Version for Netlify
