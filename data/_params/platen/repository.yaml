@@ -1,0 +1,5 @@
+# yaml-language-server: $schema=https://platen.io/modules/platen/config/site/repository/settings/schema.json
+url:          https://github.com/platenio/platen # Set this to your own Project URL
+commit_path:  commit
+edit_path:    edit/main
+content_root: content
