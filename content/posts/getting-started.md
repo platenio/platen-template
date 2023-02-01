@@ -1,16 +1,10 @@
 ---
-author: Michael T. Lombardi
-date: 2021-09-01
-linktitle: Getting Started
-menu:
-  main:
-    parent: tutorials
-next: /posts/shortcodes
-# prev: /posts/post-name
 title: Getting Started
+author: Mikey Lombardi
+date: 2021-09-01
 weight: 10
+type: posts
 ---
-
 
 ## Introduction
 

@@ -1,7 +1,8 @@
 ---
-menu:
-  after:
-    name: posts
-    weight: 5
-title: Blog Posts
+title: Posts
+summary: Blog posts and news
+type: PostIndex
+platen:
+  menu:
+    hide: true
 ---
