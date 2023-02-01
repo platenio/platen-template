@@ -1,7 +1,7 @@
 ---
 title: Action & Combat
 weight: 3
-description: |
+summary: |
   Mechanisms for handling action scenes and combat
 ---
 

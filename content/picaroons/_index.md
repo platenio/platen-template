@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Picaroons"
+title: Picaroons
 platen:
   menu:
     flatten_section: true

@@ -1,6 +1,6 @@
 ---
 title: Platen Example Site
-description: >-
+summary: >-
   This is an example site for digital books, built on Platen!
 ---
 

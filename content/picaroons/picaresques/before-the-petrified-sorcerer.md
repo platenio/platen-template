@@ -1,7 +1,7 @@
 ---
 title: 2. Before the Petrified Sorcerer
 weight: 2
-description: |
+summary: |
   You're chasing down the corrupt guard captain. The town council is paying good silver (500/1000)
   for him dead or alive. He stands before a 7' mage statue, bejeweled rapier drawn and cape
   tattered. The sun is setting as shadows lengthen...

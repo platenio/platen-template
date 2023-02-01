@@ -1,7 +1,7 @@
 ---
 title: Companions & Hirelings
 weight: 4
-description: |
+summary: |
   Secondary characters in Picaroons
 ---
 

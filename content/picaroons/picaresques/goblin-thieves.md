@@ -1,7 +1,7 @@
 ---
 title: 1. Goblin Thieves
 weight: 1
-description: |
+summary: |
   You've been hired (100s, if successful), to Do Something about the goblins who keep sneaking into
   town and stealing pigs. You've been lying in wait and have jumped into the road to accost the
   returning raiding party (1d6 goblins, one in a Fancy Hat)...

@@ -1,0 +1,33 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/go",
+    "features": {
+        "ghcr.io/devcontainers/features/hugo:1": {
+            "extended": true
+        },
+        "ghcr.io/devcontainers/features/node:1": {
+            "version": "latest"
+        }
+    },
+    
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "eliostruyf.vscode-front-matter-beta",
+                "davidanson.vscode-markdownlint",
+                "marvhen.reflow-markdown",
+                "darkriszty.markdown-table-prettify",
+                "wmaurer.change-case",
+                "nhoizey.gremlins",
+                "usernamehw.errorlens",
+                "eamodio.gitlens",
+                "tyriar.sort-lines",
+                "jock.svg",
+                "ms-vscode.wordcount",
+                "redhat.vscode-yaml"
+            ]
+        }
+    },
+    "forwardPorts": [
+        1313
+    ]
+}
