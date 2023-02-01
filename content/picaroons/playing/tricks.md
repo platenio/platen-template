@@ -1,7 +1,7 @@
 ---
 title: Tricks
 weight: 2
-description: |
+summary: |
   Special abilities for picaroons
 ---
 

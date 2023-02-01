@@ -1,7 +1,7 @@
 ---
 title: Resting
 weight: 2
-description: |
+summary: |
   Mechanisms for resting and advancement between adventures
 ---
 

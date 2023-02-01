@@ -1,7 +1,7 @@
 ---
 title: 4. She Won't Let You Sleep
 weight: 4
-description: |
+summary: |
   You offended her, somehow. It's been 1d6 days since you last slumbered, and 1d6 hours since the
   sun set. You've found her, singing lullabies to herself in her cottage deep in the woods. At last,
   perhaps, you can lift this damned curse...

@@ -1,7 +1,7 @@
 ---
 title: 6. In Search of the Silver Lily
 weight: 6
-description: |
+summary: |
   A young woman with bulging eyes was calling out for help. She promised you her weight in silver
   for the petals of a magic flower if you'd just retrieve it from a cave known as The Mudfish's Maw.
   She handed you a map and now, two weeks later, you can see the cave. You also see a tiger stalking

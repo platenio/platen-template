@@ -1,7 +1,7 @@
 ---
 title: 3. When the Gendarmes Laid Low
 weight: 3
-description: |
+summary: |
   You were found guilty on the word of a filthy rich merchant for crimes you might have committed.
   1d6 gendarmes step into the tavern you're in as the world rumbles. They glance at each other, lock
   eyes with you, and are crushed flat when the wall collapses...

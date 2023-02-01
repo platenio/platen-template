@@ -1,7 +1,7 @@
 ---
 title: 5. The Old Man & The Bath
 weight: 5
-description: |
+summary: |
   An ancient man seeks to bathe in healing waters long rumored and never seen. He promised you
   enormous wealth (600s up front, 1800s on return) to keep him safe on his quest. Two months of
   travel and hardship and you've found them, at last. The man slips, fully clothed, into a pool of
